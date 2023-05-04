@@ -1,5 +1,3 @@
----
-
 ***Resumo do projeto***
 
  - O projeto de Regulação de Leitos funciona a partir da inserção da    quantidade de pacientes e leitos, ambos aleatórios.  
